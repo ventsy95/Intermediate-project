@@ -229,5 +229,6 @@ public abstract class User implements IUser {
 	void setMyAds(List<Ad> myAds) {
 		this.myAds = myAds;
 	}
+}
 	
 	
