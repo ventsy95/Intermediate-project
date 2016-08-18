@@ -17,6 +17,8 @@ public class Demo {
 		iva.getMessage();
 		
 		ivo.getMessage();
+		//tuka napravih promqna
+		
 	}
 
 }
